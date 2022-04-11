@@ -37,4 +37,5 @@ app.get('/api/getAllNews', (req, res) => {
     res.send(correctNews)
     })
 
+
 app.listen(3000)
